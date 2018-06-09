@@ -5,6 +5,8 @@ StoreData：入门例子
 
 AnnoEmployeeTest：注解式入门例子
 
+CompleteTest：增删改查完整例子
+
 HQLtest：HQL例子
 
 CriteriaTest：标准查询例子
